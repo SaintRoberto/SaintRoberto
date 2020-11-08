@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Maps projects usign POSTGIS and React
 - 🤔 I’m looking for help with Api Implementation with Docker
 - 📫 How to reach me: luna.robertodev@gmail.com
-- ⚡ Fun fact: I like anime and stuff
+- ⚡ Fun fact: I always did project but i never posted on GitHub until now :sweat_smile:
 
 ## ⚡ Technologies
 
