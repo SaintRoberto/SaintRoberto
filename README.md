@@ -1,4 +1,4 @@
-### Hi im Roberto Luna 👋
+### Im Roberto Luna 👋
 
 - 🔭 I am working as a freelancer
 - 🌱 I’m currently learning React
