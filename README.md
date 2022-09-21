@@ -1,7 +1,7 @@
 ### Im Roberto Luna 👋
 
-- 🔭 I am working as a freelancer
-- 🌱 I’m currently learning React
+- 🔭 I am working as a FrontEnd developer
+- 🌱 I’m currently programing on ReactJS
 - 👯 I’m looking to collaborate on Maps projects usign POSTGIS and React
 - 🤔 I’m looking for help with Api Implementation with Docker
 - 📫 How to reach me: luna.robertodev@gmail.com
